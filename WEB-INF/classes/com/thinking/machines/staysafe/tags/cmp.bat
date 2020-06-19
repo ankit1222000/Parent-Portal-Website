@@ -1,0 +1,1 @@
+javac -classpath c:\tomcat9\lib\*;c:\tomcat9\webapps\staysafe\WEB-INF\classes;. *.java
