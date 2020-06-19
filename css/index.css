@@ -1,0 +1,51 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 24 May, 2020, 2:13:17 PM
+    Author     : arpit
+*/
+
+.button{
+    display: inline-block;
+    width: 110px;
+    height: 30px;
+    border: 2px solid red;
+    color: red;
+    font-size: 10px;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+    text-decoration: none;
+    line-height: 20px;
+    box-sizing: border-box;
+    border-radius: 50px;
+    background-color: transparent;
+    outline: none;
+    transition: all ease 0.5s;
+}
+.active{
+    font-size: 0;
+    width: 20px;
+    height: 20px;
+    border: 2px solid red;
+    border-radius: 50%;
+    border-left-color: transparent;
+    animation: rotate 1.4s ease 0.5s infinite; 
+}
+@keyframes rotate{
+    0%{
+        transform: rotate(360deg);
+    }
+}
+
+
+
+.cord{
+    overflow-y: auto;
+    overflow-x: hidden;
+    width: auto;
+    height: 350px;
+}

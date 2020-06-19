@@ -1,0 +1,2 @@
+<h6> <img src="img/icons/class.png" alt="class-icon">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="img/icons/${studentBean.getStream()}.png" alt="class-icon"></h6>
+ <font class="font-medium">${studentBean.getClasses()}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;${studentBean.getStream()}</font><br><br>

@@ -1,0 +1,1 @@
+create view student_view2 as                                                                 -> select attendence_record.Rollnumber,attendence_record.Name,attendence_record.Date,attendence_record.Status,attendence_record.Punch_time,test.PhoneNo from attendence_record inner join test on test.name=attendence_record.name where attendence_record.Date=CURDATE();    

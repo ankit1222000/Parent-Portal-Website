@@ -1,0 +1,69 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 24 May, 2020, 12:23:15 PM
+    Author     : arpit
+*/
+.button{
+    display: inline-block;
+    width: 160px;
+    height: 40px;
+    border: 2px solid red;
+    color: red;
+    font-size: 15px;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+    text-decoration: none;
+    line-height: 35px;
+    box-sizing: border-box;
+    border-radius: 50px;
+    background-color: transparent;
+    outline: none;
+    transition: all ease 0.5s;
+}
+.active{
+    font-size: 0;
+    width: 30px;
+    height: 30px;
+    border: 5px solid red;
+    border-radius: 50%;
+    border-left-color: transparent;
+    animation: rotate 1.4s ease 0.5s infinite; 
+}
+@keyframes rotate{
+    0%{
+        transform: rotate(360deg);
+    }
+}
+/*.success{
+    position: relative;
+    background-color: #fff;
+    animation: bounce .3s ease-in;
+}
+@keyframes bounce{
+    0%{
+        transform: scale(0.9);
+    }
+}
+.success:before{
+    content: '';
+    position: absolute;
+    background: url(check-solid.svg) no-repeat; /*check solid is fontawesome icon*/
+    /*left: 0;
+    right: 0;
+    margin: 0 auto;
+    width: 30px;
+    height: 30px;
+    line-height: 31px;
+    top: 8px;
+}
+*/
+
+/* navbar*/
+.nav-item a span{
+    color: white;
+}

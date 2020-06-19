@@ -1,0 +1,1 @@
+insert into student_detail(Rollnumber,Name,Gender,Class,Stream,PhoneNo,Date_of_Birth,Father_Name,Mother_Name,Address,State,City,Country) values(101,'Bhavesh Wadhwa','Male','XII','Commerce','9713327224','1999-05-22','Jitendra','Savita','Vijay Nagar','MadhyaPradesh','Indore','India');
