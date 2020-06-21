@@ -265,51 +265,15 @@
                                 <h4>Ankit Bhatia</h4>
                                 <span>Full-Stack Developer</span>
                                 <div>
-                                    <a href="https://github.com/ankit1222000"><img src="img/footergit.png" class="image" width="15" height="15"></a>
-                                    <a href=" https://www.facebook.com/ankit.bhatia.524" style="margin-left: 10px;"><img src="img/fotterfacebook.png" class="image" width="15" height="15"></a>
-                                    <a href="https://www.instagram.com/ankit1222000" style="margin-left: 10px;"><img src="img/fotterInsta.png" class="image" width="15" height="15"></i></a>
-                                    <a href="http://linkedin.com/in/ankit-bhatia-89a2701a6" style="margin-left: 10px;"><img src="img/footerLinked.png" class="image" width="15" height="15"></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-3 col-md-6 d-flex align-items-stretch animate__animated animate__backInRight">
-                        <div class="member">
-                            <div class="member-img">
-                                <img src="img/Developer/aalekh.png" class="img-fluid" alt="">
-                            </div>
-                            <div class="member-info">
-                                <h4>Aalekh Karhadkar</h4>
-                                <span>Full-Stack Developer</span>
-                                <div>
-                                    <a href="https://github.com/Aalekh11"><img src="img/footergit.png" class="image" width="15" height="15"></a>
-                                    <a href="" style="margin-left: 10px;"><img src="img/fotterfacebook.png" class="image" width="15" height="15"></a>
-                                    <a href="" style="margin-left: 10px;"><img src="img/fotterInsta.png" class="image" width="15" height="15"></i></a>
-                                    <a href="https://www.linkedin.com/in/aalekh-karhadkar-516362197/" style="margin-left: 10px;"><img src="img/footerLinked.png" class="image" width="15" height="15"></a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="col-lg-3 col-md-6 d-flex align-items-stretch animate__animated animate__backInRight">
-                        <div class="member">
-                            <div class="member-img">
-                                <img src="img/Developer/Arpit Katiyar.jpg" class="img-fluid" alt="">
-                            </div>
-                            <div class="member-info">
-                                <h4>Arpit Katiyar</h4>
-                                <span>Front-end Developer</span>
-                                <div>
-                                      <a href="https://github.com/arpit1107"><img src="img/footergit.png" class="image" width="15" height="15"></a>
+                                    <a href="#" class="image" width="15" height="15"></a>
                                     <a href="#" style="margin-left: 10px;"><img src="img/fotterfacebook.png" class="image" width="15" height="15"></a>
-                                    <a href="https://www.instagram.com/_arpitkumar__/" style="margin-left: 10px;"><img src="img/fotterInsta.png" class="image" width="15" height="15"></i></a>
-                                    <a href="https://www.linkedin.com/in/arpit-katiyar-ab6518139/" style="margin-left: 10px;"><img src="img/footerLinked.png" class="image" width="15" height="15"></a>
+                                    <a href="#" style="margin-left: 10px;"><img src="img/fotterInsta.png" class="image" width="15" height="15"></i></a>
+                                    <a href="#" style="margin-left: 10px;"><img src="img/footerLinked.png" class="image" width="15" height="15"></a>
                                 </div>
                             </div>
                         </div>
                     </div>
-                </div>
+
 
             </div>
         </section><!-- End Team Section -->
