@@ -7,7 +7,10 @@ Note:All the data displayed on the website is fetched from the server according 
 
 ### For More Details or Any Suggestions u can Reach me at ankit.bhatia1220@gmail.com
 
-# Some Webiste Feature Previews:-
+
+
+
+# Some Website Feature Previews:-
 
 ## - Login Page, Dashboard,Student Profile, Fees and Result Functionality.
 
