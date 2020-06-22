@@ -26,6 +26,6 @@ Note:All the data displayed on the website is fetched from the server according 
 
 
 
-## Please Do Also Chekout my Sub Project for School in Java-Python Developement field  which i have created,basically Java and Python Based Student Security Attendence System called Staysafe Security System that uses the property of Face Recognition as well as QR Based Attendence Punching by the students.
+## Please Do Also Checkout my Sub Project for School in Java-Python Developement field  which i have created,basically Java and Python Based Student Security Attendence System called Staysafe Security System that uses the property of Face Recognition as well as QR Based Attendence Punching by the students.
 ### on https://github.com/ankit1222000/Face-Recognition-QR-Code-Based-Attendence-Security-System
 
